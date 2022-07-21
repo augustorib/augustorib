@@ -12,5 +12,5 @@
 </div>
 
 <div>
-     <a href="https://www.linkedin.com/in/augusto-ribeiro-9797121b2/" target="_blank" rel="noopener" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-  the-badge&logo=linkedin&logoColor=white%22%3E</a>
+<a href="https://www.linkedin.com/in/augusto-ribeiro-9797121b2/" target="_blank" rel="noopener" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-  the-badge&logo=linkedin&logoColor=white%22%3E"</a>
 </div>
