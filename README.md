@@ -1,7 +1,7 @@
 # Hey, I'm Augusto Ribeiro a web developer
 - I have knowledge especially in <strong>PHP</strong>, <strong>C#</strong>, <strong>JS</strong>, <strong>Laravel</strong>, <strong>HTML/CSS</strong>, <strong>SQLSRV</strong>
 
-- I'm currently working on personal projects <strong>PHP</strong>, <strong>Laravel</strong>, <strong>JS</strong>,
+- I'm currently working on personal projects <strong>PHP</strong>, <strong>Laravel</strong>, <strong>JS</strong>, <strong>HTML/CSS</strong>, <strong>SQLSRV</strong>
   and looking for new experiences.
   
 <div>
