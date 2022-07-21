@@ -4,7 +4,7 @@
 - I'm currently working on personal projects <strong>PHP</strong>, <strong>Laravel</strong>, <strong>JS</strong>, <strong>HTML/CSS</strong>, <strong>SQLSRV</strong>
   and looking for new experiences.
   
-<div>
+<div class="d-flex">
 <a href="https://github.com/augustorib"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=augustorib&show_owner=true&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustorib&layout=compact&langs_count=16&theme=github_dark"/>
