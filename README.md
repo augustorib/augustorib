@@ -1,14 +1,13 @@
-# Hey, I'm Augusto Ribeiro and a web developer
+# Hey, I'm Augusto Ribeiro a web developer
 - I have knowledge especially in <strong>PHP</strong>, <strong>C#</strong>, <strong>JS</strong>, <strong>Laravel</strong>, <strong>HTML/CSS</strong>, <strong>SQLSRV</strong>
 
 - I'm currently working on personal projects <strong>PHP</strong>, <strong>Laravel</strong>, <strong>JS</strong>, <strong>HTML/CSS</strong>, <strong>SQLSRV</strong>
   and looking for new experiences.
   
 <div>
-  <a href="https://github.com/augustorib">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api? username=augustorib&show_owner=true&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true%22/%3E/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustorib&layout=compact&langs_count=16&theme=github_dark%22/%3E/> 
-   </a>
+<a href="https://github.com/vitielloL"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitielloL&show_owner=true&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitielloL&layout=compact&langs_count=16&theme=github_dark"/>
 </div>
 
 <div>
